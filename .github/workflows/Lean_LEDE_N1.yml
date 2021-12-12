@@ -2,7 +2,7 @@ name: Lean_LEDE_N1
 
 on:
   schedule:
-    - cron: 36 20 * * *
+    - cron: 40 20 * * *
   repository_dispatch:
     types: run
     
